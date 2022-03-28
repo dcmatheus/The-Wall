@@ -1,0 +1,6 @@
+[submodule "the-wall-frontend"]
+	path = the-wall-frontend
+	url = https://github.com/vinigofr/the-wall-frontend
+[submodule "the-wall-backend"]
+	path = the-wall-backend
+	url = https://github.com/vinigofr/the-wall-backend
