@@ -4,3 +4,6 @@
 [submodule "the-wall-backend"]
 	path = the-wall-backend
 	url = https://github.com/vinigofr/the-wall-backend
+[submodule "business-data-scraping-trybe"]
+	path = business-data-scraping-trybe
+	url = git@github.com:vinigofr/business-data-scraping-trybe.git
