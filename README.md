@@ -12,14 +12,14 @@
 
 ## Como utilizar
  - ### Ao entrar a primeira vez no [The Wall](http://www.google.com.br/), você verá o seguinte pop-up abaixo:
-    ![Pop-pop de ](images/2.png)
+    ![Imagem de um pop-up perguntando se quem acessa o site é ou não uma empresa parceira. Há duas opções, sim e não](images/2.png)
 
  - ### Caso a resposta nesse pop-up seja positiva (SIM), você poderá ver o nome da empresa parceira no qual você representa.
-    ![Pop-pop de ](images/3.png)
+    ![Lista de empresas em um menu dropdown](images/3.png)
 
 
  - ### Caso a resposta seja negativa, você terá acesso a um link que redirecionará para uma página de cadastro, que permite que a empresa no qual você está representando seja uma empresa parceira da Trybe.
-    ![Pop-pop de ](images/4.png)
+    ![Pop-up com uma seta indicando o local correto para clicar. Essa seta aponta para um link de cadastro de novas empresas parceiras. Há duas opções, voltar e continuar.](images/4.png)
 
 
 ## Sobre empresas parceiras
@@ -32,14 +32,15 @@
     - ### O link do dossiê pode ser acessível após clicar em qualquer um dos cards das pessoas estudantes    
 
 ## Sobre as pessoas estudantes
-  - ### Você verá uma lista de pessoas estudantes que possuem diversas habilidades técnicas
+  - ### Você verá uma lista de pessoas estudantes que possuem diversas habilidades técnicas que podem ser filtradas utilizando o filtro do topo da página.
+    ![Seta apontando para o filtro de stacks](images/5.bmp)
 
   - ### Você pode assistir ao vídeo de apresentação quando clicar no card
 
   - ### Pode favoritar clicando no coração
 
   - ### Você pode clicar no botão "Ver dossiê" para visualizar o dossiê de uma pessoa específica
-    ![Pop-pop de ](images/6.png)
+    ![Pop-pop mostrando o resultado após clicar em um card de alguma pessoa estudante. Há na foto um vídeo, um botão de "Ver dossiê", um botão de favotirar, um botão de fechar e o nome da pessoa estudante.](images/6.png)
 
 
 ## Sobre o dossiê
