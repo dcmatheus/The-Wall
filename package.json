@@ -1,0 +1,20 @@
+{
+  "name": "the-wall",
+  "version": "1.0.0",
+  "description": "Um projeto feito de pessoas da Turma 11 para a Turma 11 💚",
+  "main": "index.js",
+  "scripts": {
+    "submodules:update": "git submodule foreach git pull origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcmatheus/The-Wall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcmatheus/The-Wall/issues"
+  },
+  "homepage": "https://github.com/dcmatheus/The-Wall#readme"
+}
