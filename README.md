@@ -11,7 +11,7 @@
 
 
 ## Como utilizar
- - ### Ao entrar a primeira vez no [The Wall](http://www.google.com.br/), você verá o seguinte pop-up abaixo:
+ - ### Ao entrar a primeira vez no [The Wall](https://the-wall-trybe.herokuapp.com/), você verá o seguinte pop-up abaixo:
     ![Imagem de um pop-up perguntando se quem acessa o site é ou não uma empresa parceira. Há duas opções, sim e não](images/2.png)
 
  - ### Caso a resposta nesse pop-up seja positiva (SIM), você poderá ver o nome da empresa parceira no qual você representa.
