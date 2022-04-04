@@ -39,8 +39,8 @@
 
   - ### Pode favoritar clicando no coração
 
-  - ### Você pode clicar no botão "Ver dossiê" para visualizar o dossiê de uma pessoa específica
-    ![Pop-pop mostrando o resultado após clicar em um card de alguma pessoa estudante. Há na foto um vídeo, um botão de "Ver dossiê", um botão de favotirar, um botão de fechar e o nome da pessoa estudante.](images/6.png)
+  - ### Você pode clicar no botão "Veja meu perfil" para visualizar o dossiê de uma pessoa específica
+    ![Pop-pop mostrando o resultado após clicar em um card de alguma pessoa estudante. Há na foto um vídeo, um botão de "Veja meu perfil", um botão de favotirar, um botão de fechar e o nome da pessoa estudante.](images/6.png)
 
 
 ## Sobre o dossiê
