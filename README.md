@@ -46,3 +46,4 @@
 ## Sobre os perfis
   - ### Para empresas parciras: o dossiê é uma forma de reunirmos ensumos acerca das pessoas estudantes, como por exemplo projetos de orgulho, LinkedIn e etc. Devido à Lei Geral de Proteção de Dados, não podemos disponibilizar estes dados abertamente, esperamos que você entenda. Por isso importante que você seja, primordialmente, uma empresa parceira para ter acesso a estes dados.
   - ### Para empresas não parceiras: você terá acesso ao link do LinkedIn da pessoa selecionada por você, ele estará disponível no botão de "Veja meu perfil"
+    - #### Caso você, no momento, não esteja representando uma empresa parceira, verá um recado junto de emoji de alerta (⚠️) que só aparece quando você não informa uma empresa parceira no momento que entra no site. [Imagem com um recado mostrando acesso de empresas não parceiras](images/7.png)
