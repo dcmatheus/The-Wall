@@ -7,7 +7,7 @@
   - ### [Primeira vez no site](#como-utilizar)
   - ### [Você é uma empresa parceira?](#sobre-empresas-parceiras)
   - ### [Exibição de pessoas estudantes](#sobre-as-pessoas-estudantes)
-  - ### [O que é um dossiê?](#sobre-o-dossie)
+  - ### [Visualizando os perfis de pessoas estudantes?](#sobre-os-perfis)
 
 
 ## Como utilizar
@@ -29,7 +29,7 @@
     - ### Favoritar pessoas estudantes
 
   - ### Quando você é uma empresa parceira, além de você ter acesso ao The Wal, também terá acesso às informações extras sobre as pessoas estudantes que estão disponíveis apenas no dossiê da Trybe
-    - ### O link do dossiê pode ser acessível após clicar em qualquer um dos cards das pessoas estudantes    
+    - ### O link do dossiê pode ser acessível após clicar em qualquer um dos cards das pessoas estudantes, desde que você esteja representando uma empresa parceira da Trybe.
 
 ## Sobre as pessoas estudantes
   - ### Você verá uma lista de pessoas estudantes que possuem diversas habilidades técnicas que podem ser filtradas utilizando o filtro do topo da página.
@@ -39,9 +39,10 @@
 
   - ### Pode favoritar clicando no coração
 
-  - ### Você pode clicar no botão "Veja meu perfil" para visualizar o dossiê de uma pessoa específica
+  - ### Você pode clicar no botão "Veja meu perfil" para visualizar o perfil de uma pessoa específica
     ![Pop-pop mostrando o resultado após clicar em um card de alguma pessoa estudante. Há na foto um vídeo, um botão de "Veja meu perfil", um botão de favotirar, um botão de fechar e o nome da pessoa estudante.](images/6.png)
 
 
-## Sobre o dossiê
-  - ### O dossiê é uma forma de reunirmos ensumos acerca das pessoas estudantes, como por exemplo projetos de orgulho, LinkedIn e etc. Devido à Lei Geral de Proteção de Dados, não podemos disponibilizar estes dados abertamente, esperamos que você entenda. Por isso importante que você seja, primordialmente, uma empresa parceira para ter acesso a estes dados.
+## Sobre os perfis
+  - ### Para empresas parciras: o dossiê é uma forma de reunirmos ensumos acerca das pessoas estudantes, como por exemplo projetos de orgulho, LinkedIn e etc. Devido à Lei Geral de Proteção de Dados, não podemos disponibilizar estes dados abertamente, esperamos que você entenda. Por isso importante que você seja, primordialmente, uma empresa parceira para ter acesso a estes dados.
+  - ### Para empresas não parceiras: você terá acesso ao link do LinkedIn da pessoa selecionada por você, ele estará dispinível no botão de "Veja meu perfil"
